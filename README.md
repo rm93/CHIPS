@@ -1,5 +1,5 @@
 # CHIPS
 
-The code for the installation and ... scipts can be found in the folder ***scripts***.
+The code for the installation scipt can be found in the folder ***scripts***.
 
-The full resolation pictures can be found in the folder ***pictures***.
+The full resolution pictures can be found in the folder ***pictures***.
